@@ -11,5 +11,6 @@
 
 主界面
 
-![image-20240115220413194](C:/Users/90942/AppData/Roaming/Typora/typora-user-images/image-20240115220413194.png)
+![图片](https://github.com/freeTrou/IM-APP-win/assets/79360793/52d412d9-5ee4-4247-9d43-3e0b6bed8580)
+
 
